@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Site](https://stats-preview-card-iota.vercel.app)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/order-summary-solution-DL9gCvlY5)
+- Live Site URL: [Site](https://order-summary-gray.vercel.app/)
 
 ## My process
 
