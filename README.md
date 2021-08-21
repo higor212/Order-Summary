@@ -25,16 +25,16 @@ Users should be able to:
 ### Screenshot
 
 #### Mobile
-![Mobile](https://github.com/higor212/Stats-Preview-Card/blob/master/images/challenge/Mobile.png?raw=true)
+![Mobile](https://github.com/higor212/Order-Summary/blob/main/images/mobile.png?raw=true)
 #### Desktop
-![Desktop](https://github.com/higor212/Stats-Preview-Card/blob/master/images/challenge/Desktop.png?raw=true)
+![Desktop](https://github.com/higor212/Order-Summary/blob/main/images/desktop.png?raw=true)
 
 ### Clone Adobe XD
 
 #### Mobile
-![Mobile](https://github.com/higor212/Stats-Preview-Card/blob/master/layout/clone/pages/mobile/mobile.png?raw=true)
+![Mobile](https://github.com/higor212/Order-Summary/blob/main/layout/clone/pages/Mobile.png?raw=true)
 #### Desktop
-![Desktop](https://github.com/higor212/Stats-Preview-Card/blob/master/layout/clone/pages/desktop/desktop.png?raw=true)
+![Desktop](https://github.com/higor212/Order-Summary/blob/main/layout/clone/pages/Desktop.png?raw=true)
 
 ### Links
 
